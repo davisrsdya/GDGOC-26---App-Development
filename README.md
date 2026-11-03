@@ -1,4 +1,6 @@
 # studyjam_counter
+<img width="1301" height="887" alt="Screenshot 2026-11-03 233425" src="https://github.com/user-attachments/assets/a3945a1b-9dd3-4b1b-9ff0-9cf48ba7205e" />
+<img width="1295" height="881" alt="Screenshot 2026-11-03 233433" src="https://github.com/user-attachments/assets/b0771bde-65fb-4903-9295-0320c543bc17" />
 
 A new Flutter project.
 
